@@ -1,3 +1,0 @@
-/home/isaias/Busca e Ordenação/Trabalho II/cmake-build-debug/CMakeFiles/Trabalho_II.dir
-/home/isaias/Busca e Ordenação/Trabalho II/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/isaias/Busca e Ordenação/Trabalho II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
